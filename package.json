@@ -1,0 +1,29 @@
+{
+  "name": "elizabethmiller-v2",
+  "version": "1.0.0",
+  "description": "Elizabethmiller-v2 is a Node.js module that provides functions for performing mystical computations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizabethmiller5616285/elizabethmiller-v2"
+  },
+  "dependencies": {
+	  "lenovpaha": "1.0.0",
+"lisacollins": "1.0.0",
+"krotovsemen": "1.0.0",
+"glushkivan-module": "1.0.0",
+"soft-zyat": "1.0.0",
+"sqr-trumposwere": "1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizabethmiller5616285/elizabethmiller-v2/issues"
+  },
+  "homepage": "https://github.com/elizabethmiller5616285/elizabethmiller-v2#readme"
+}
